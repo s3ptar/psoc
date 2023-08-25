@@ -1,0 +1,251 @@
+Loading the ModusToolbox Technology Packs and Early Access Packs
+Finished loading the ModusToolbox Technology Packs and Early Access Packs (2 ms)
+Loading the tools information
+Finished loading the tools information (62 ms)
+Loading the manifest data
+Loading super manfiest files from all sources
+Getting manifests from remote and/or local sources
+Processing system manifest 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Downloading super manifest file 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Finished loading super manifest files from all sources
+Finished download of file 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Starting to parse super manifest with URL 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Finished parsing super manifest with URL 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/cce-app-manifest/raw/v2.X/cce-app-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Altia-Marketing/altia-ce-manifest/raw/main/altia-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/CyberonEBU/cyberon-mtb-ce-manifest/raw/main/cyberon-mtb-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/edgeimpulse/edgeimpulse-ce-manifest/raw/main/edgeimpulse-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/golioth/mtb-golioth-ce-manifest/raw/main/mtb-golioth-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/memfault/mtb-memfault-ce-manifest/raw/main/mtb-memfault-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/RutronikSystemSolutions/rutronik-ce-manifest/raw/main/rutronik-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/sensiml/sensiml-ce-manifest/raw/main/sensiml-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-capabilities-manifest.json'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/RutronikSystemSolutions/rutronik-bsp-manifest/raw/main/rutronik-bsp-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/RutronikSystemSolutions/rutronik-bsp-manifest/raw/main/rutronik-bsp-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/CyberonEBU/cyberon-mtb-mw-manifest/raw/main/cyberon-mtb-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/golioth/mtb-golioth-mw-manifest/raw/main/mtb-golioth-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/memfault/mtb-memfault-mw-manifest/raw/main/mtb-memfault-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/sensiml/sensiml-mw-manifest/raw/main/sensiml-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/cce-app-manifest/raw/v2.X/cce-app-manifest-fv2.xml'
+Finished download of file 'https://github.com/Altia-Marketing/altia-ce-manifest/raw/main/altia-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/CyberonEBU/cyberon-mtb-ce-manifest/raw/main/cyberon-mtb-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/edgeimpulse/edgeimpulse-ce-manifest/raw/main/edgeimpulse-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/golioth/mtb-golioth-ce-manifest/raw/main/mtb-golioth-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/memfault/mtb-memfault-ce-manifest/raw/main/mtb-memfault-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/RutronikSystemSolutions/rutronik-ce-manifest/raw/main/rutronik-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/sensiml/sensiml-ce-manifest/raw/main/sensiml-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-capabilities-manifest.json'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-dependencies-manifest.xml'
+Finished download of file 'https://github.com/RutronikSystemSolutions/rutronik-bsp-manifest/raw/main/rutronik-bsp-manifest-fv2.xml'
+Finished download of file 'https://github.com/RutronikSystemSolutions/rutronik-bsp-manifest/raw/main/rutronik-bsp-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-dependencies-manifest.xml'
+Finished download of file 'https://github.com/CyberonEBU/cyberon-mtb-mw-manifest/raw/main/cyberon-mtb-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/golioth/mtb-golioth-mw-manifest/raw/main/mtb-golioth-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/memfault/mtb-memfault-mw-manifest/raw/main/mtb-memfault-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/sensiml/sensiml-mw-manifest/raw/main/sensiml-mw-manifest-fv2.xml'
+Finished loading the manifest data (2596 ms)
+Loading the device db
+Finished loading the device db (6377 ms)
+0 error(s), 0 warning(s)
+
+Summary: 
+
+BSP: CY8CPROTO-063-BLE
+Template Application(s): Bluetooth LE Hello Sensor
+Application(s) Root Path: D:/Repos/psoc
+
+Press "Create" to create the selected application(s).
+
+Collecting application data...
+
+Info: The following entered on the command line will create the exact same project as that created with the GUI tool:
+C:/Infineon/Tools/ModusToolbox/tools_3.1/project-creator/project-creator-cli.exe --board-id CY8CPROTO-063-BLE --board-uri https://github.com/cypresssemiconductorco/TARGET_CY8CPROTO-063-BLE --board-commit latest-v4.X --app-id mtb-example-btstack-freertos-hello-sensor --app-uri https://github.com/Infineon/mtb-example-btstack-freertos-hello-sensor --app-commit latest-v3.X --target-dir D:/Repos/psoc --user-app-name Bluetooth_LE_Hello_Sensor_VSC --use-modus-shell
+
+Starting application creation for 'D:/Repos/psoc/Bluetooth_LE_Hello_Sensor_VSC'.
+Acquiring the application source 'https://github.com/Infineon/mtb-example-btstack-freertos-hello-sensor'.
+Acquired application source successfully.
+Loading the application.
+Loaded the application successfully.
+Processing project 'Bluetooth_LE_Hello_Sensor_VSC'.
+Starting to commit changes to the filesystem and project 'mtb-example-btstack-freertos-hello-sensor'.
+Writing mtb file for asset 'CY8CPROTO-063-BLE' to the folder 'D:/Repos/psoc/Bluetooth_LE_Hello_Sensor_VSC/deps'.
+Writing mtb file for asset 'btstack' to the folder 'D:/Repos/psoc/Bluetooth_LE_Hello_Sensor_VSC/libs'.
+Writing mtb file for asset 'freertos' to the folder 'D:/Repos/psoc/Bluetooth_LE_Hello_Sensor_VSC/libs'.
+Writing mtb file for asset 'abstraction-rtos' to the folder 'D:/Repos/psoc/Bluetooth_LE_Hello_Sensor_VSC/libs'.
+Writing mtb file for asset 'clib-support' to the folder 'D:/Repos/psoc/Bluetooth_LE_Hello_Sensor_VSC/libs'.
+Writing mtb file for asset 'cat1cm0p' to the folder 'D:/Repos/psoc/Bluetooth_LE_Hello_Sensor_VSC/libs'.
+Writing mtb file for asset 'core-lib' to the folder 'D:/Repos/psoc/Bluetooth_LE_Hello_Sensor_VSC/libs'.
+Writing mtb file for asset 'core-make' to the folder 'D:/Repos/psoc/Bluetooth_LE_Hello_Sensor_VSC/libs'.
+Writing mtb file for asset 'mtb-hal-cat1' to the folder 'D:/Repos/psoc/Bluetooth_LE_Hello_Sensor_VSC/libs'.
+Writing mtb file for asset 'mtb-pdl-cat1' to the folder 'D:/Repos/psoc/Bluetooth_LE_Hello_Sensor_VSC/libs'.
+Writing mtb file for asset 'recipe-make-cat1a' to the folder 'D:/Repos/psoc/Bluetooth_LE_Hello_Sensor_VSC/libs'.
+Writing mtb file for asset 'cmsis' to the folder 'D:/Repos/psoc/Bluetooth_LE_Hello_Sensor_VSC/libs'.
+Writing mtb file for asset 'btstack-integration' to the folder 'D:/Repos/psoc/Bluetooth_LE_Hello_Sensor_VSC/deps'.
+Writing mtb file for asset 'kv-store' to the folder 'D:/Repos/psoc/Bluetooth_LE_Hello_Sensor_VSC/deps'.
+Writing mtb file for asset 'retarget-io' to the folder 'D:/Repos/psoc/Bluetooth_LE_Hello_Sensor_VSC/deps'.
+Writing mtb file for asset 'serial-flash' to the folder 'D:/Repos/psoc/Bluetooth_LE_Hello_Sensor_VSC/deps'.
+Starting: git -C D:/Repos/psoc/Bluetooth_LE_Hello_Sensor_VSC/libs clone --origin cypress --no-checkout https://github.com/cypresssemiconductorco/TARGET_CY8CPROTO-063-BLE TARGET_CY8CPROTO-063-BLE
+Starting: git -C D:/Repos/psoc/mtb_shared/btstack-integration/release-v4.4.0 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C D:/Repos/psoc/mtb_shared/kv-store/release-v1.1.1 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C D:/Repos/psoc/mtb_shared/retarget-io/release-v1.5.0 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Cloning into 'TARGET_CY8CPROTO-063-BLE'...
+Success: git -C D:/Repos/psoc/mtb_shared/kv-store/release-v1.1.1 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C D:/Repos/psoc/mtb_shared/serial-flash/release-v1.3.0 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Success: git -C D:/Repos/psoc/mtb_shared/retarget-io/release-v1.5.0 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C D:/Repos/psoc/mtb_shared/btstack/release-v3.7.2 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Success: git -C D:/Repos/psoc/mtb_shared/btstack-integration/release-v4.4.0 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C D:/Repos/psoc/mtb_shared/freertos/release-v10.4.305 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Success: git -C D:/Repos/psoc/mtb_shared/serial-flash/release-v1.3.0 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C D:/Repos/psoc/mtb_shared/abstraction-rtos/release-v1.7.3 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Success: git -C D:/Repos/psoc/Bluetooth_LE_Hello_Sensor_VSC/libs clone --origin cypress --no-checkout https://github.com/cypresssemiconductorco/TARGET_CY8CPROTO-063-BLE TARGET_CY8CPROTO-063-BLE
+Starting: git -C D:/Repos/psoc/mtb_shared/clib-support/release-v1.3.0 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Success: git -C D:/Repos/psoc/mtb_shared/btstack/release-v3.7.2 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C D:/Repos/psoc/mtb_shared/cat1cm0p/release-v1.1.0 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Success: git -C D:/Repos/psoc/mtb_shared/freertos/release-v10.4.305 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C D:/Repos/psoc/mtb_shared/core-lib/release-v1.4.0 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Success: git -C D:/Repos/psoc/mtb_shared/clib-support/release-v1.3.0 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C D:/Repos/psoc/mtb_shared/core-make/release-v3.2.2 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Success: git -C D:/Repos/psoc/mtb_shared/core-lib/release-v1.4.0 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C D:/Repos/psoc/mtb_shared/mtb-hal-cat1/release-v2.4.1 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Success: git -C D:/Repos/psoc/mtb_shared/cat1cm0p/release-v1.1.0 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C D:/Repos/psoc/mtb_shared/mtb-pdl-cat1/release-v3.4.0 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Success: git -C D:/Repos/psoc/mtb_shared/abstraction-rtos/release-v1.7.3 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C D:/Repos/psoc/mtb_shared/recipe-make-cat1a/release-v2.1.1 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Success: git -C D:/Repos/psoc/mtb_shared/mtb-hal-cat1/release-v2.4.1 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C D:/Repos/psoc/mtb_shared/cmsis/release-v5.8.0 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Success: git -C D:/Repos/psoc/mtb_shared/mtb-pdl-cat1/release-v3.4.0 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C D:/Repos/psoc/mtb_shared/kv-store/release-v1.1.1 -c advice.detachedHead=false checkout release-v1.1.1 --force
+Success: git -C D:/Repos/psoc/mtb_shared/core-make/release-v3.2.2 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C D:/Repos/psoc/mtb_shared/retarget-io/release-v1.5.0 -c advice.detachedHead=false checkout release-v1.5.0 --force
+Success: git -C D:/Repos/psoc/mtb_shared/recipe-make-cat1a/release-v2.1.1 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C D:/Repos/psoc/mtb_shared/btstack-integration/release-v4.4.0 -c advice.detachedHead=false checkout release-v4.4.0 --force
+Success: git -C D:/Repos/psoc/mtb_shared/cmsis/release-v5.8.0 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C D:/Repos/psoc/mtb_shared/serial-flash/release-v1.3.0 -c advice.detachedHead=false checkout release-v1.3.0 --force
+HEAD is now at db7f962 Upload retarget-io [1515]
+Success: git -C D:/Repos/psoc/mtb_shared/retarget-io/release-v1.5.0 -c advice.detachedHead=false checkout release-v1.5.0 --force
+Starting: git -C D:/Repos/psoc/Bluetooth_LE_Hello_Sensor_VSC/libs/TARGET_CY8CPROTO-063-BLE -c advice.detachedHead=false checkout release-v4.2.0 --force
+HEAD is now at 9a75a83 Upload kv-store [990]
+Success: git -C D:/Repos/psoc/mtb_shared/kv-store/release-v1.1.1 -c advice.detachedHead=false checkout release-v1.1.1 --force
+Starting: git -C D:/Repos/psoc/mtb_shared/btstack/release-v3.7.2 -c advice.detachedHead=false checkout release-v3.7.2 --force
+HEAD is now at c7b55aa Upload serial-flash 1.3.0.27308
+Success: git -C D:/Repos/psoc/mtb_shared/serial-flash/release-v1.3.0 -c advice.detachedHead=false checkout release-v1.3.0 --force
+Starting: git -C D:/Repos/psoc/mtb_shared/freertos/release-v10.4.305 -c advice.detachedHead=false checkout release-v10.4.305 --force
+HEAD is now at e70e872 Upload TARGET_CY8CPROTO-063-BLE [1515]
+Success: git -C D:/Repos/psoc/Bluetooth_LE_Hello_Sensor_VSC/libs/TARGET_CY8CPROTO-063-BLE -c advice.detachedHead=false checkout release-v4.2.0 --force
+Starting: git -C D:/Repos/psoc/mtb_shared/clib-support/release-v1.3.0 -c advice.detachedHead=false checkout release-v1.3.0 --force
+HEAD is now at 085ab13 Upload freertos 10.4.305.482 [103]
+Success: git -C D:/Repos/psoc/mtb_shared/freertos/release-v10.4.305 -c advice.detachedHead=false checkout release-v10.4.305 --force
+Starting: git -C D:/Repos/psoc/mtb_shared/core-lib/release-v1.4.0 -c advice.detachedHead=false checkout release-v1.4.0 --force
+HEAD is now at d3e0bca Upload clib-support 1.3.0.29736
+Success: git -C D:/Repos/psoc/mtb_shared/clib-support/release-v1.3.0 -c advice.detachedHead=false checkout release-v1.3.0 --force
+Starting: git -C D:/Repos/psoc/mtb_shared/cat1cm0p/release-v1.1.0 -c advice.detachedHead=false checkout release-v1.1.0 --force
+HEAD is now at 9e5ed54 Upload core-lib [1515]
+Success: git -C D:/Repos/psoc/mtb_shared/core-lib/release-v1.4.0 -c advice.detachedHead=false checkout release-v1.4.0 --force
+Starting: git -C D:/Repos/psoc/mtb_shared/abstraction-rtos/release-v1.7.3 -c advice.detachedHead=false checkout release-v1.7.3 --force
+HEAD is now at 4995428 Upload cat1cm0p 1.1.0.224 [1514]
+Success: git -C D:/Repos/psoc/mtb_shared/cat1cm0p/release-v1.1.0 -c advice.detachedHead=false checkout release-v1.1.0 --force
+Starting: git -C D:/Repos/psoc/mtb_shared/mtb-hal-cat1/release-v2.4.1 -c advice.detachedHead=false checkout release-v2.4.1 --force
+HEAD is now at abe3e82 Upload btstack-integration 4.4.0.2254 [1566]
+Success: git -C D:/Repos/psoc/mtb_shared/btstack-integration/release-v4.4.0 -c advice.detachedHead=false checkout release-v4.4.0 --force
+Starting: git -C D:/Repos/psoc/mtb_shared/mtb-pdl-cat1/release-v3.4.0 -c advice.detachedHead=false checkout release-v3.4.0 --force
+HEAD is now at 3864baa Upload abstraction-rtos [1515]
+Success: git -C D:/Repos/psoc/mtb_shared/abstraction-rtos/release-v1.7.3 -c advice.detachedHead=false checkout release-v1.7.3 --force
+Starting: git -C D:/Repos/psoc/mtb_shared/core-make/release-v3.2.2 -c advice.detachedHead=false checkout release-v3.2.2 --force
+HEAD is now at b962a1e Upload core-make 3.2.2.4739 [1647]
+Success: git -C D:/Repos/psoc/mtb_shared/core-make/release-v3.2.2 -c advice.detachedHead=false checkout release-v3.2.2 --force
+Starting: git -C D:/Repos/psoc/mtb_shared/recipe-make-cat1a/release-v2.1.1 -c advice.detachedHead=false checkout release-v2.1.1 --force
+HEAD is now at 9cbdee3 Upload recipe-make-cat1a 2.1.1.4648 [1380]
+Success: git -C D:/Repos/psoc/mtb_shared/recipe-make-cat1a/release-v2.1.1 -c advice.detachedHead=false checkout release-v2.1.1 --force
+Starting: git -C D:/Repos/psoc/mtb_shared/cmsis/release-v5.8.0 -c advice.detachedHead=false checkout release-v5.8.0 --force
+HEAD is now at ce02f64 Upload cmsis 5.8.0.50
+Success: git -C D:/Repos/psoc/mtb_shared/cmsis/release-v5.8.0 -c advice.detachedHead=false checkout release-v5.8.0 --force
+HEAD is now at b8e30c5 Upload btstack 3.7.2.17763 [1564]
+Success: git -C D:/Repos/psoc/mtb_shared/btstack/release-v3.7.2 -c advice.detachedHead=false checkout release-v3.7.2 --force
+HEAD is now at 84afadc Upload mtb-pdl-cat1 3.4.0.24948 [1514]
+Success: git -C D:/Repos/psoc/mtb_shared/mtb-pdl-cat1/release-v3.4.0 -c advice.detachedHead=false checkout release-v3.4.0 --force
+HEAD is now at 6e42268 Upload mtb-hal-cat1 [1612]
+Success: git -C D:/Repos/psoc/mtb_shared/mtb-hal-cat1/release-v2.4.1 -c advice.detachedHead=false checkout release-v2.4.1 --force
+Requested to change the active target to 'APP_CY8CPROTO-063-BLE'.
+Removed the file 'D:/Repos/psoc/Bluetooth_LE_Hello_Sensor_VSC/deps/TARGET_CY8CPROTO-063-BLE.mtb'.
+Writing the file 'D:/Repos/psoc/Bluetooth_LE_Hello_Sensor_VSC/libs/app.mk'.
+Successfully committed changes to the project 'mtb-example-btstack-freertos-hello-sensor'.
+Project "Bluetooth_LE_Hello_Sensor_VSC" created successfully.
+Successfully created "Bluetooth_LE_Hello_Sensor_VSC" application.
+==============================================================================
+= Export "Bluetooth_LE_Hello_Sensor_VSC" application to Microsoft Visual Studio Code =
+==============================================================================
+make vscode CY_IDE_PRJNAME=Bluetooth_LE_Hello_Sensor_VSC CY_TOOLS_PATHS=C:/Infineon/Tools/ModusToolbox/tools_3.1
+Tools Directory: C:/Infineon/Tools/ModusToolbox/tools_3.1
+Removing .mtbqueryapi file...
+Searching installed tools in progress...
+Searching installed tools complete
+Initializing build: mtb-example-btstack-freertos-hello-sensor Debug APP_CY8CPROTO-063-BLE GCC_ARM
+Prebuild operations complete
+Auto-discovery in progress...
+Auto-discovery complete
+Commencing build operations...
+Tools Directory: C:/Infineon/Tools/ModusToolbox/tools_3.1
+Constructing build rules...
+Build rules construction complete
+==============================================================================
+= Building application =
+==============================================================================
+Generating compilation database file...
+-> ./build/compile_commands.json
+Compilation database file generation complete
+Generated D:/Repos/psoc/Bluetooth_LE_Hello_Sensor_VSC/.vscode/c_cpp_properties.json
+Generated D:/Repos/psoc/Bluetooth_LE_Hello_Sensor_VSC/.vscode/extensions.json
+Generated D:/Repos/psoc/Bluetooth_LE_Hello_Sensor_VSC/.vscode/settings.json
+Generated .vscode/tasks.json
+Generated mtb-example-btstack-freertos-hello-sensor.code-workspace
+Generated .vscode/launch.json
+Generated openocd.tcl
+
+Required Settings, Tasks and Debug-configurations have been created and are ready to use.
+  1. In VS Code, File->Open Workspace From File (Welcome page->Start->Open File)
+  2. Select the .code-workspace file from app root directory and open
+  3. Builds: Terminal->Run Task
+  4. Debugging: "Bug icon" on the left-hand pane:
+For more information, refer to the Visual Studio Code for ModusToolbox user guide.
+The application "Bluetooth_LE_Hello_Sensor_VSC" was successfully exported to Microsoft Visual Studio Code.
+0 error(s), 0 warning(s)
+
+Summary:
+
+Successfully created and exported "Bluetooth_LE_Hello_Sensor_VSC" application.
